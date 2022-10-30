@@ -11,7 +11,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" href="logo.png" />
-    <title>Output Nilai</title>
+    <title>Output | Buat Invoice</title>
     <style>
       div {
         border: 2px solid black;
