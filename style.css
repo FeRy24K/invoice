@@ -1,14 +1,14 @@
 body {
   background-color: rgb(187, 247, 255);
   text-align: center;
-  width: 100%;
+  width: auto;
 }
 .login {
   background-color: white;
   width: 350px;
   padding: 20px;
   margin: auto;
-  margin-top: 100px;
+  margin-top: 150px;
   border: 2px solid black;
   font-size: 18px;
 }
